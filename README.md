@@ -14,3 +14,4 @@ To Do List:
 
 4- Choosing scrum day: Monday evening , Sunday evening, Friday evening
 
+Scrum meeting
